@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="829.526302">
+<testcase classname="Find all the games and their tournament size" name="Find all the games and their tournament size" time="829.526302">
+<system-out><![CDATA[Given We go to the "https://game.tv"........................................passed
+When We scroll to the bottom of the page....................................passed
+Then We get the list of the games...........................................passed
+Then We close all chrome instances..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
